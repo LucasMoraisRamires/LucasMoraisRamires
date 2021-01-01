@@ -1,6 +1,9 @@
 ### Hi there 👋
   My Name is Lucas, I am a Technology Information Student
-
+  
+  I am learning about software development 
+  
+### skills:
 
 <!--
 **LucasMoraisRamires/LucasMoraisRamires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
