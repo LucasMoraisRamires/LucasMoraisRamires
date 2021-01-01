@@ -1,7 +1,7 @@
 ### Hi there 👋
   My Name is Lucas, I am a Technology Information Student
   
-  CyberSecurity (Segurança da Informação pt-br) at FATEC Americana-SP
+  CyberSecurity (Segurança da Informação pt-br) at FATEC Americana-SP  4/6
   
   I am learning about software development 
   
